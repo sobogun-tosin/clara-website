@@ -7,7 +7,7 @@
   margin: 20px 0 0;
   font-family: var(--display);
   font-weight: 400;
-  font-size: clamp(40px, 10vw, 156px);
+  font-size: clamp(40px, 10vw, 140px);
   line-height: 0.9;
   letter-spacing: -1px;
   max-width: 1200px;
@@ -24,7 +24,7 @@
 }
 .os-hero .lede {
   font-family: var(--serif);
-  font-size: clamp(18px, 2vw, 22px);
+  font-size: clamp(18px, 2vw, 20px);
   line-height: 1.5;
   letter-spacing: -0.2px;
   margin: 0;

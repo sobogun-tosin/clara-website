@@ -11,25 +11,28 @@ export const StoryPage = () => {
       {/* HERO */}
       <section className="os-hero">
         <div className="kicker">✦ Our Story ✦</div>
+
         <h1>
-          Built by <span className="serif-i tomato">restaurant kids</span> who
-          moved to Britain, and never really left the kitchen.
+          Built from <span className="serif-i tomato">l ived experience </span>
+          across food, business, and technology, between Nigeria and the UK.
         </h1>
         <div className="lede-row">
           <p className="lede">
-            We grew up between two worlds. One of recipe books and double
-            shifts. Another of startup all-hands and product roadmaps. Clara is
-            what happens when those worlds finally talk to each other.
+            We grew up between food, business, and technology — from family-run
+            operations in Nigeria to real restaurant floors in the UK and
+            start-up all hand and product roadmaps. We saw the same pattern
+            everywhere: great food and hard work held back by disconnected
+            systems.Clara is what happens when those experiences come together.
           </p>
+
           <p className="context">
-            Our parents opened their first restaurants in the UK with very
-            little - a recipe, a lease, a card reader that &quot;mostly&quot;
-            worked. Two decades later the recipes are still perfect. The tools
-            around them are not. Clara is our attempt to finally fix that, built
-            with every shortcut, workaround and 2am spreadsheet our families
-            ever taught us.{" "}
+            Built from firsthand experience across service, finance, and
+            engineering, Clara is our attempt to fix the everyday problems
+            restaurants face — from managing orders to managing customers
+            relationship — without adding complexity.{" "}
             <span className="serif-i">
-              It&apos;s a love letter, and a business.
+              It’s a solution shaped by real life experiences, and built to make
+              restaurants run better.
             </span>
           </p>
         </div>
