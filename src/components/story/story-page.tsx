@@ -22,7 +22,7 @@ export const StoryPage = () => {
             operations in Nigeria to real restaurant floors in the UK and
             start-up all hand and product roadmaps. We saw the same pattern
             everywhere: great food and hard work held back by disconnected
-            systems.Clara is what happens when those experiences come together.
+            systems. Clara is what happens when those experiences come together.
           </p>
 
           <p className="context">
@@ -103,32 +103,57 @@ export const StoryPage = () => {
           <div className="body" style={{ marginTop: 24 }}>
             <p>Dear operator,</p>
             <p>
-              Clara Commerce was born from firsthand experience — four founders
-              who grew up around food, business, and technology, and
-              couldn&apos;t ignore the gap they kept seeing: good restaurants
-              being held back by the wrong tools.
+              Clara was not built in a boardroom, and we didn’t arrive at this
+              idea by accident. Between us, we’ve seen the food business from
+              every angle, from cooked food to raw supply, from family-run
+              operations to the day-to-day realities of serving customers.
             </p>
             <p>
-              Oluwabusola and Ajisola grew up in a family restaurant, giving
-              them an early, intimate understanding of what running a food
-              business actually demands. Oluwabusola&apos;s time as a food
-              server in a hotel brought the operational frustrations into sharp
-              focus — forgotten customer details, disconnected systems, and no
-              single platform that held everything together. Moving to the UK
-              made those gaps even harder to overlook. Ajisola brought the
-              financial lens, using his Master&apos;s in Finance and Management
-              to put a number on what inefficiency quietly costs restaurants
-              already operating on razor-thin margins.
+              We didn’t grow up in identical stories, but they were closely
+              connected. Oluwabusola and Ajisola’s family had a food restaurant,
+              learning firsthand what it takes to serve people daily with
+              consistency and care. Tosin’s background comes from the food
+              business, understanding supply, sourcing, and the foundation every
+              food business depends on. Tobiloba grew up around business more
+              broadly, where adaptability and problem-solving were part of
+              everyday life.
             </p>
             <p>
-              Tosin bridges the food supply world with frontend engineering and
-              product thinking — someone who understands both the chain that
-              keeps a restaurant running and the importance of building software
-              that actually works for the people using it under pressure.
-              Tobiloba combines a business-shaped upbringing with backend
-              engineering and product roadmapping, building the reliable
-              infrastructure that powers Clara beneath the surface while keeping
-              a clear eye on how the product grows and scales.
+              Oluwabusola worked as a food server in a hotel, where the cracks
+              were impossible to ignore, customer preferences forgotten,
+              delivery issues piling up, and staff constantly rewriting the same
+              customer details because there was no system that actually worked
+              or connected together. Moving to the UK made those gaps even
+              clearer: tighter constraints around customer data, fragmented
+              ordering systems, and the operational pressure on small and
+              mid-sized restaurants trying to keep up.
+            </p>
+            <p>
+              Ajisola saw the same problem from another side. Working in a small
+              restaurant in Essex, he experienced how traditional ordering
+              systems slowed everything down, orders missed, deliveries
+              disorganised, and no reliable way to track or retain customer
+              information. It wasn’t a lack of effort. It was a lack of the
+              right tools.
+            </p>
+
+            <p>And that’s the pattern we couldn’t ignore.</p>
+
+            <p>
+              Alongside this, we’ve been building hand in hand with engineers
+              who not only have experience across multiple companies, but who
+              also come from homes shaped by family businesses. These technical
+              expertise and lived understanding mean we’re not guessing. We
+              understand both how these systems are built and how they’re
+              actually used in real life. It’s this perspective that shapes how
+              Clara is designed to genuinely support restaurants, not complicate
+              them.
+            </p>
+
+            <p>
+              UK restaurants are doing everything right, from the food, the
+              service, the hustle, but they’re being held back by systems that
+              don’t understand how they actually operate. So we built Clara.
             </p>
             <p>
               Clara Commerce is designed to help small and mid-sized restaurants
@@ -137,15 +162,16 @@ export const StoryPage = () => {
               retain customer information properly in just one platform. No more
               rewriting details. No more losing track of regulars. Just a system
               that enables restaurants to operate more profitably by owning
-              demand, data, and customer relationships
+              demand, data, and customer relationships{" "}
             </p>
 
             <p>
-              We believe small restaurants deserve better infrastructure, not
-              just better margins.
+              We believe small and mid-sized restaurants deserve better
+              infrastructure, not just better margins.
             </p>
 
             <p>Clara is our way of building it.</p>
+
             <p>
               With respect for the work you do,
               <br />
@@ -202,7 +228,7 @@ export const StoryPage = () => {
             <div>
               <div className="kicker clay">✦ How we work ✦</div>
               <h2>
-                Four things we{" "}
+                Things we{" "}
                 <span className="serif-i tomato">
                   won&apos;t compromise on.
                 </span>

@@ -1,28 +1,28 @@
 export const timeline = [
   {
     year: "Then",
-    title: "A till that wouldn't ring up after 9pm.",
-    body: "Three kids doing homework on a corner table while mum wrestled with a thermal printer. Dad reconciling receipts on paper into the morning. Everyone in the family has worked a shift.",
+    title: "Food, business, and long days.",
+    body: "From cooked meals to raw supply, from family hustle to serving customers, we saw early what it takes to keep things running — and how much of it relied on workarounds, memory, and systems that didn’t quite connect. Everyone played a role. Everyone understood the pressure.",
   },
   {
-    year: "2015",
-    title: "We moved to the UK for software.",
-    body: "London, mostly. Cambridge for one of us. We joined companies whose products made millions of people's lives easier - and sent money home to keep the lights on at the restaurant.",
+    year: "2024",
+    title: "We moved to the UK to build careers",
+    body: "We worked and gained experience in companies whose products made millions of people's lives easier while staying closely connected to the business and restaurants in Nigeria.",
   },
   {
-    year: "2022",
-    title: "Same tools. Same margins. Same story.",
-    body: "Eight years in, we realised our friends and family running restaurants in Peckham, Tooting, Leicester, Bradford, were using almost exactly the same patchwork of tools they had in 2010 - and losing 25 to 35 percent of every online order.",
+    year: "The realization",
+    title: "Different roles, same problem.",
+    body: "Whether in a hotel, a small restaurant, or behind a screen building systems, we kept seeing the same gaps: disconnected tools, lost customer information, and operations that were harder than they needed to be.",
   },
   {
-    year: "2025",
-    title: "We quit our jobs.",
-    body: "We started prototyping on weekends, then every evening, then every morning. The first restaurant to use Clara was a family friend's takeaway in Forest Hill. She cried when she saw her first direct order.",
+    year: "The shift",
+    title: "We started building.",
+    body: "What began as conversations turned into prototypes, shaped by real restaurant workflows and constant feedback. The goal was simple: create something that actually works for the operations of restaurants.",
   },
   {
     year: "2026",
-    title: "Private beta.",
-    body: "Seventeen restaurants, four cities, zero marketplace cut. This is the beginning.",
+    title: "Clara Commerce.",
+    body: "A growing platform designed to help small and mid-sized restaurants manage orders, deliveries, and customer relationships in one place without complexity.",
   },
 ];
 
@@ -51,30 +51,30 @@ export const principles = [
 
 export const founders = [
   {
-    name: "Akindolu Ajisola",
+    name: "Akindolu Ajisola Oluwafemi",
     role: "Co-founder, Finance",
-    origin: "Lagos -> London",
+    origin: "Lagos -> Essex",
     bg: "var(--tomato)",
     fg: "var(--cream)",
   },
   {
-    name: "Akindolu Busola",
+    name: "Akindolu Oluwabusola Motunrayo",
     role: "Co-founder, Operations",
-    origin: "Lagos -> London",
+    origin: "Lagos -> Birmingham",
     bg: "var(--teal)",
     fg: "var(--cream)",
   },
   {
     name: "Owolabi Tobiloba",
     role: "Co-founder, Engineering",
-    origin: "Lagos -> London",
+    origin: "Lagos",
     bg: "var(--plum)",
     fg: "var(--cream)",
   },
   {
     name: "Sobogun Tosin",
     role: "Co-founder, Engineering",
-    origin: "Lagos -> London",
+    origin: "Lagos",
     bg: "var(--mustard)",
     fg: "var(--cream)",
   },

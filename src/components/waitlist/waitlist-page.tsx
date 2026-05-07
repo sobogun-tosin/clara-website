@@ -315,7 +315,7 @@ export const WaitlistPage = () => {
       </section>
 
       {/* QUOTES */}
-      <section className="wl-quotes">
+      <section className="wl-quotes hidden">
         <header>
           <div className="kicker clay">✦ From the kitchen ✦</div>
           <h2>
@@ -387,30 +387,40 @@ export const WaitlistPage = () => {
               >
                 The founding team.
                 <br />
-                London · Lagos · Lahore.
+                Essex · Lagos · Birmingham.
               </div>
             </div>
           </div>
-          <div style={{ display: "flex", flexDirection: "column", gap: 24 }}>
+          <div className="flex flex-col gap-6">
             <p className="lede">
-              We grew up in restaurants. Not ones that made the Guardian top-50.
-              The ones where mum did the books at the kitchen table and dad
-              stayed late to fix the card reader that never really worked.
+              We came from a world shaped by food and other businesses. Not the
+              polished, well-funded kind. The kind where families poured
+              everything into a business that ran on long hours, tight margins,
+              and sheer determination. Growing up in and around those
+              restaurants meant understanding, from a very young age, what it
+              actually costs to keep one going and how little of the available
+              infrastructure was built with places like that in mind.
             </p>
             <p className="body">
-              We moved to the UK to build software. And every time we came home
-              - Peckham, Tooting, Manchester, Leicester - we saw the same thing.
-              Independent restaurants, full of soul, losing a third of every
-              order to a marketplace that wouldn&apos;t even tell them who their
-              own customers were.
+              When they moved to the UK, the picture didn&apos;t improve. It
+              just came into sharper focus. Across the country, the same scene
+              played out over and over: independent restaurants with genuine
+              quality and loyal communities, quietly hemorrhaging revenue to
+              platforms that took their orders, kept their customer data, and
+              offered nothing back but a smaller margin.
             </p>
             <div className="note">
               <div className="kicker">✦ A note from the founders</div>
               <p>
-                &quot;We&apos;re immigrants. We&apos;re children of restaurant
-                people. We&apos;re building the thing our families needed twenty
-                years ago - and that tens of thousands of UK operators still
-                need today. Clara is for you.&quot;
+                &quot;As immigrants, we have lived every dimension of these
+                problems, from the operational chaos of a kitchen with no
+                reliable system to the financial cost of inefficiency, which is
+                measured not just in stress but in real numbers. Clara is the
+                result, one platform that gives independent restaurants in the
+                UK control over their orders, their deliveries, and most
+                importantly, their customer relationships. No more dependency on
+                third parties who own the data. No more complexity that slows
+                people down at the worst possible moment.&quot;
               </p>
             </div>
             <Link
