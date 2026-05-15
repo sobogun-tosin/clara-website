@@ -2,26 +2,26 @@ export const timeline = [
   {
     year: "Then",
     title: "Food, business, and long days.",
-    body: "From cooked meals to raw supply, from family hustle to serving customers, we saw early what it takes to keep things running — and how much of it relied on workarounds, memory, and systems that didn’t quite connect. Everyone played a role. Everyone understood the pressure.",
+    body: "From raw supply to cooked meals, from family hustle to serving customers, we saw early what it takes to keep things running, and how much of it relied on manual work and fragmented systems that didn’t quite give the expected outcome.",
   },
   {
     year: "2024",
-    title: "We moved to the UK to build careers",
+    title: "We came to the UK to build careers in different fields",
     body: "We worked and gained experience in companies whose products made millions of people's lives easier while staying closely connected to the business and restaurants in Nigeria.",
   },
   {
     year: "The realization",
     title: "Different roles, same problem.",
-    body: "Whether in a hotel, a small restaurant, or behind a screen building systems, we kept seeing the same gaps: disconnected tools, lost customer information, and operations that were harder than they needed to be.",
+    body: "Whether in a hotel, a small restaurant, or any industry, gathering customer data and building reliable systems has always been a major challenge: operational efficiency, low/no access to customer data, disconnected tools, and loss of customer information.",
   },
   {
     year: "The shift",
     title: "We started building.",
-    body: "What began as conversations turned into prototypes, shaped by real restaurant workflows and constant feedback. The goal was simple: create something that actually works for the operations of restaurants.",
+    body: "What began as conversations turned into prototypes, shaped by real restaurant workflows and constant feedback. The goal was simple: create something that actually makes restaurants more efficient and profitable.",
   },
   {
     year: "2026",
-    title: "Clara Commerce.",
+    title: "This gave birth to the idea called Clara.",
     body: "A growing platform designed to help small and mid-sized restaurants manage orders, deliveries, and customer relationships in one place without complexity.",
   },
 ];

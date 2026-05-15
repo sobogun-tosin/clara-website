@@ -396,18 +396,18 @@ export const WaitlistPage = () => {
               We came from a world shaped by food and other businesses. Not the
               polished, well-funded kind. The kind where families poured
               everything into a business that ran on long hours, tight margins,
-              and sheer determination. Growing up in and around those
-              restaurants meant understanding, from a very young age, what it
-              actually costs to keep one going and how little of the available
-              infrastructure was built with places like that in mind.
+              and sheer determination. Growing up in and around those businesses
+              meant, from a very young age, understanding what it actually costs
+              to keep one going and how little of the available infrastructure
+              was built with places like that in mind.
             </p>
             <p className="body">
-              When they moved to the UK, the picture didn&apos;t improve. It
+              When we relocated to the UK, the picture didn&apos;t improve. It
               just came into sharper focus. Across the country, the same scene
               played out over and over: independent restaurants with genuine
               quality and loyal communities, quietly hemorrhaging revenue to
               platforms that took their orders, kept their customer data, and
-              offered nothing back but a smaller margin.
+              offered nothing back but a small margin.
             </p>
             <div className="note">
               <div className="kicker">✦ A note from the founders</div>
